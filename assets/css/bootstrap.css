@@ -4960,9 +4960,9 @@ a.badge:focus {
   margin-left: 3px;
 }
 .jumbotron {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  margin-bottom: 30px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-bottom: 20px;
   color: inherit;
   background-color: #eee;
 }
@@ -4972,7 +4972,7 @@ a.badge:focus {
 }
 .jumbotron p {
   margin-bottom: 15px;
-  font-size: 21px;
+  font-size: 18px;
   font-weight: 200;
 }
 .jumbotron > hr {
@@ -4989,13 +4989,13 @@ a.badge:focus {
 }
 @media screen and (min-width: 768px) {
   .jumbotron {
-    padding-top: 48px;
-    padding-bottom: 48px;
+    padding-top: 25px;
+    padding-bottom: 25px;
   }
   .container .jumbotron,
   .container-fluid .jumbotron {
-    padding-right: 60px;
-    padding-left: 60px;
+    padding-right: 40px;
+    padding-left: 40px;
   }
   .jumbotron h1,
   .jumbotron .h1 {
